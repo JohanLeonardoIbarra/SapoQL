@@ -1,4 +1,4 @@
 {
-  "palindromo": [["iai", true], ["aabb", true], ["oreo, false]", ["caica", true], ["ana", true], ["illulli", true], ["avaa", false], ["juej", false], ["jeje", true], ["hola", false], ["johan", true], ["aeeaa", true], ["holaaloh", true], ["unigami", false], ["sdsd", true]],
+  "palindromo": [["iai", true], ["aabb", true], ["oreo", false], ["caica", true], ["ana", true], ["illulli", true], ["avaa", false], ["juej", false], ["jeje", true], ["hola", false], ["johan", true], ["aeeaa", true], ["holaaloh", true], ["unigami", false], ["sdsd", true]],
   "nani": "shindee"
 }
